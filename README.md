@@ -1,7 +1,7 @@
 # Tensorflow-SSD-Object-Detection
 Object Location using pretrained Single Shot Detection technique and Tensorflow.
 
-Download the frozen graph file in: 
+Download the frozen graph file from here or from the official repo in:
 https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
 
 
